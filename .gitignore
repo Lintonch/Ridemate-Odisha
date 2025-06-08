@@ -1,0 +1,17 @@
+# Java and Spring Boot
+/target
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Environment
+application.properties
+
